@@ -17,7 +17,8 @@ h2 {
 
 .num-box {
     height: 40px;
-    width: 332px;
+     /* width: 332px;  one input box  */ 
+    width: 162px;
 }
 
 .clear-button {

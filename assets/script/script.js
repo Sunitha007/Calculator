@@ -1,8 +1,5 @@
 //calculator       4       textbox
 
-
-
-/*
 var screendisplay1 = document.getElementById("input1");
 var operator = document.getElementById("input2");
 var screendisplay2 = document.getElementById("input3");
@@ -41,7 +38,7 @@ function equal() {
         console.log(screendisplay3.value)
     }
 }
-    */
+    
 
 //calculator       3       textbox
 
@@ -163,12 +160,9 @@ function equal() {
 }
     */
 
+/*
 
-//calculator       1       textbox
-
-
-
-
+//calculator       1       textbox show values & operators
 
 var screendisplay1 = document.getElementById("input1");
 var num1 = "";
@@ -211,8 +205,11 @@ function equal(equalTo) {
     }
 }
 
+*/
 
 /*
+
+// calculator       1       textbox hide values and only view result
 
 var screendisplay1 = document.getElementById("input1");
 var num1 = "";
